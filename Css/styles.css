@@ -1,0 +1,13 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+.all_back {
+  background-color: black;
+}
+#logo {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 3px;
+  margin-left: 1.5%;
+  position: fixed;
+}
